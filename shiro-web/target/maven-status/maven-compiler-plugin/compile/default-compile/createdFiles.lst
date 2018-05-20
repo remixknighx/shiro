@@ -1,0 +1,3 @@
+com\imooc\controller\UserController.class
+com\imooc\vo\User.class
+com\imooc\shiro\realm\CustomRealm.class
